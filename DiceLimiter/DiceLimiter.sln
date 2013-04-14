@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceLimiter", "DiceLimiter.csproj", "{9066CACB-4B34-420B-8A77-DAA41DFADD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceLimiterLib", "..\DiceLimiterLib\DiceLimiterLib.csproj", "{84E0AE5A-BA60-4F37-B78C-8A89FEDC1099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceLimiterLib.Test", "..\DiceLimiterLib.Test\DiceLimiterLib.Test.csproj", "{9B6E0A6E-1BE4-4CD7-BF68-C73B017EB18F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9066CACB-4B34-420B-8A77-DAA41DFADD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9066CACB-4B34-420B-8A77-DAA41DFADD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9066CACB-4B34-420B-8A77-DAA41DFADD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9066CACB-4B34-420B-8A77-DAA41DFADD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E0AE5A-BA60-4F37-B78C-8A89FEDC1099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E0AE5A-BA60-4F37-B78C-8A89FEDC1099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E0AE5A-BA60-4F37-B78C-8A89FEDC1099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E0AE5A-BA60-4F37-B78C-8A89FEDC1099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6E0A6E-1BE4-4CD7-BF68-C73B017EB18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6E0A6E-1BE4-4CD7-BF68-C73B017EB18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6E0A6E-1BE4-4CD7-BF68-C73B017EB18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6E0A6E-1BE4-4CD7-BF68-C73B017EB18F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
